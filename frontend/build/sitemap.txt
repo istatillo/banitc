@@ -1,0 +1,7 @@
+https://banitc.uz/
+https://banitc.uz/news
+https://banitc.uz/news/:id
+https://banitc.uz/courses
+https://banitc.uz/contact
+https://banitc.uz/test
+https://banitc.uz/teachers

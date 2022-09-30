@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkit_center_bandixon=self.webpackChunkit_center_bandixon||[]).push([[866],{8866:function(e,n,a){a.r(n);a(2791);var s=a(184);n.default=function(){return(0,s.jsx)("div",{className:"loaderdiv",children:(0,s.jsx)("span",{className:"loader"})})}}}]);
+//# sourceMappingURL=866.31d1dab5.chunk.js.map
